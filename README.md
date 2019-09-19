@@ -28,7 +28,18 @@ The report starts from this line
 
 - Take photos of the control interface
 
+1.
+
 ![Elevator_Image_Huyen](https://i.imgur.com/D8NAp0d.jpg)
+
+2. 
+
+![Elevator_Image_Huyen2](./images/elevator.jpg)
+
+3. 
+
+![Elevator_Image_Huyen2](https://github.com/nnhuyen/new-hw1/blob/master/images/elevator.jpg
+)
 
 -  Show a gif image of the control interface in operation.
 
