@@ -30,6 +30,8 @@ The report starts from this line
 
 ![Elevator_Image_Huyen](https://i.imgur.com/D8NAp0d.jpg)
 
+![Elevator_Image_Huyen2](./images/elevator.jpg)
+
 -  Show a gif image of the control interface in operation.
 
 ![Elevator_Gif_Huyen](https://media.giphy.com/media/fAbByUYxLUGE6ygSvZ/giphy.gif)
