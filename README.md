@@ -14,11 +14,11 @@ The report starts from this line
 
 
 ### Links
-[Presentation page](https://nnhuyen.github.io/new-hw1) (e.g. https://nnhuyen.github.io/new-hw1, contains content of this README)
+[Presentation page](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
 
-[GitHub repository](https://github.com/nnhuyen/new-hw1) (e.g. https://github.com/nnhuyen/new-hw1)
+[GitHub repository](https://github.com/huyen-nguyen/hci-template) (e.g. https://github.com/huyen-nguyen/hci-template)
 
-[Demo](https://nnhuyen.github.io/new-hw1/demo.html) (e.g. https://nnhuyen.github.io/new-hw1/demo.html, the demo file **should not** be named index.html)
+[Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
 
 [Video (optional)](https://www.youtube.com/embed/uilkmUoXoLU) (e.g. https://www.youtube.com/embed/uilkmUoXoLU - embed link)
 
