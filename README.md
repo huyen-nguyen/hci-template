@@ -28,11 +28,7 @@ The report starts from this line
 
 - Take photos of the control interface
 
-![Elevator_Image_Huyen](https://i.imgur.com/D8NAp0d.jpg)
-
 -  Show a gif image of the control interface in operation.
-
-![Elevator_Gif_Huyen](https://media.giphy.com/media/fAbByUYxLUGE6ygSvZ/giphy.gif)
 
 - Find the issues with the current design.
 
